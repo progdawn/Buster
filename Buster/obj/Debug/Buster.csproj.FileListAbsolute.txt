@@ -1,0 +1,6 @@
+c:\users\dawn\documents\visual studio 2012\Projects\myers_Buster\Buster\bin\Debug\Buster.exe.config
+c:\users\dawn\documents\visual studio 2012\Projects\myers_Buster\Buster\bin\Debug\Buster.exe
+c:\users\dawn\documents\visual studio 2012\Projects\myers_Buster\Buster\bin\Debug\Buster.pdb
+c:\users\dawn\documents\visual studio 2012\Projects\myers_Buster\Buster\obj\Debug\Buster.csprojResolveAssemblyReference.cache
+c:\users\dawn\documents\visual studio 2012\Projects\myers_Buster\Buster\obj\Debug\Buster.exe
+c:\users\dawn\documents\visual studio 2012\Projects\myers_Buster\Buster\obj\Debug\Buster.pdb
